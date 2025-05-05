@@ -185,7 +185,7 @@ function getRootHtml() {
       }
   </style>
   <!-- 集成网站分析仪表板 -->
-  <script defer src="https://analytics.629090.xyz/tracker.min.js" data-website-id="Picture"></script>
+  <script defer src="https://analytics.629090.xyz/tracker.min.js" data-website-id="CDN"></script>
 </head>
 <body>
   <div class="background">
