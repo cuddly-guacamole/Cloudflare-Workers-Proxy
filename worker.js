@@ -184,6 +184,8 @@ function getRootHtml() {
           box-shadow: 0 1px 0 0 #2c3e50 !important;
       }
   </style>
+  <!-- 集成网站分析仪表板 -->
+  <script defer src="https://analytics.629090.xyz/tracker.min.js" data-website-id="Picture"></script>
 </head>
 <body>
   <div class="background">
